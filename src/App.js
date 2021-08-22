@@ -28,7 +28,7 @@ const filteredCoins= coins.filter ( coin =>
   return (
     <div className="coin-app">
       <div className="coin-search">
-        <h1 className="coin-text">Bảng thống kê giá</h1>
+      
         <form>
           <input type="text" placeholder="Tìm kiếm cryptocurrency" className="coin-input" onChange={handleChange}/>
         </form>
