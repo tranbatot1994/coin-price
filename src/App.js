@@ -40,11 +40,10 @@ const filteredCoins= coins.filter ( coin =>
            key={coin.id}
            name={coin.name} 
            image={coin.image}
-           symbol={coin.symbol} 
-           volume={coin.total_volume}
+           
            price={coin.current_price}
             priceChange={coin.price_change_percentage_24h}
-            marketcap={coin.market_cap}
+
            />
 
          )
