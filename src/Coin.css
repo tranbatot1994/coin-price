@@ -10,15 +10,15 @@
     align-items: center;
     height: 70px;
     border-bottom: 1px solid #d7d7d7;
-    width: 330px;
+    width: 360px;
   }
   
   .coin {
     display: flex;
     align-items: center;
-    padding-right: 5px;
+    padding-right: 10px;
   
-    min-width: 120px;
+    min-width: 145px;
   }
   .coin-rank {
       font-size: 13px;
@@ -43,18 +43,18 @@
   .coin-data {
     font-size: 15px;
     display: flex;
-    padding-left: 30px;
+    padding-left: 20px;
 
   }
   .coin-phantram {
     font-size: 15px;
-    padding-right: 300px;
+    padding-right: 15px;
 
   }
   
   
   .coin-percent {
-    width: 110px;
+    width: 120px;
     display: flex;
     align-items: center;
   }
