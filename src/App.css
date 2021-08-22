@@ -46,7 +46,7 @@
     -225deg,
     #db1af5 0%,
     #e6f337 48%,
-    #f10000 100%
+    #0c0000 100%
   );
 
   color: #0a0101;
@@ -54,7 +54,8 @@
 
 .coin-input::placeholder {
   font-size: 17px;
-  color: #575555;
+  color: #000000;
+  font-weight: 550;
   display: flex;
   align-items: center;
   align-content: center;
