@@ -16,20 +16,20 @@
   .coin {
     display: flex;
     align-items: center;
-    padding-right: 10%;
+    padding-right: 5px;
   
-    min-width: 120px;
+    min-width: 130px;
   }
   .coin-rank {
       font-size: 18px;
       display: flex;
-      padding-right: 5px;
+      padding-right: 3px;
 
   }
   
   .coin h1 {
     font-size: 15px;
-    width: 555px;
+  
   }
   
   .coin img {
@@ -43,15 +43,13 @@
     display: flex;
     text-align: right;
     justify-content: space-between;
-    width: 300px;
+
   }
   
-  .coin-price {
-    width: 100%;
-  }
+
   
   .coin-volume {
-    width: 155px;
+    width: 355px;
   }
   
 
