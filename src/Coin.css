@@ -10,7 +10,7 @@
     align-items: center;
     height: 70px;
     border-bottom: 1px solid #d7d7d7;
-    width: 300px;
+    width: 330px;
   }
   
   .coin {
@@ -18,43 +18,45 @@
     align-items: center;
     padding-right: 5px;
   
-    min-width: 130px;
+    min-width: 120px;
   }
   .coin-rank {
-      font-size: 18px;
+      font-size: 13px;
       display: flex;
-      padding-right: 3px;
+      padding-right: 6px;
+      padding-left: 8px;
 
   }
   
   .coin h1 {
-    font-size: 15px;
+    font-size: 14px;
   
   }
   
   .coin img {
-    height: 26px;
-    width: 26px;
-    margin-right: 10px;
+    height: 23px;
+    width: 23px;
+    margin-right: 7px;
   }
   
   
   .coin-data {
+    font-size: 15px;
     display: flex;
-    text-align: right;
-    justify-content: space-between;
+    padding-left: 30px;
+
+  }
+  .coin-phantram {
+    font-size: 15px;
+    padding-right: 300px;
 
   }
   
-
   
-  .coin-volume {
-    width: 355px;
-  }
-  
-
   .coin-percent {
-    width: 100px;
+    width: 110px;
+    display: flex;
+    align-items: center;
   }
   
   .red {
