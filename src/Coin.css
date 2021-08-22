@@ -29,7 +29,7 @@
   }
   
   .coin h1 {
-    font-size: 14px;
+    font-size: 17px;
   
   }
   
@@ -41,13 +41,13 @@
   
   
   .coin-data {
-    font-size: 15px;
+    font-size: 17px;
     display: flex;
     padding-left: 20px;
 
   }
   .coin-phantram {
-    font-size: 15px;
+    font-size: 17px;
     padding-right: 15px;
 
   }
@@ -61,10 +61,10 @@
   
   .red {
     color: #f00606;
-    font-weight: 450;
+    font-weight: 300;
   }
   
   .green {
     color: #248024;
-    font-weight: 450;
+    font-weight: 300;
   }

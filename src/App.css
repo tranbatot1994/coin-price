@@ -5,6 +5,7 @@
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  font-weight: 549;
   background-color: #fff3da;
   color: #151414;
   
@@ -55,7 +56,6 @@
 .coin-input::placeholder {
   font-size: 17px;
   color: #000000;
-  font-weight: 150;
   display: flex;
   align-items: center;
   align-content: center;
