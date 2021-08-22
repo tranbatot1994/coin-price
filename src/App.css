@@ -4,7 +4,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: sans-serif;
   background-color: #fff3da;
   color: #151414;
   
@@ -55,7 +55,7 @@
 .coin-input::placeholder {
   font-size: 17px;
   color: #000000;
-  font-weight: 550;
+  font-weight: 150;
   display: flex;
   align-items: center;
   align-content: center;
